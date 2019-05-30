@@ -1,5 +1,3 @@
-package lantern
-
 import scala.util.continuations._
 import org.scala_lang.virtualized.virtualize
 import org.scala_lang.virtualized.SourceContext
